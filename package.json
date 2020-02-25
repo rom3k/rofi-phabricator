@@ -1,0 +1,19 @@
+{
+  "name": "rofi-phabricator",
+  "version": "0.0.1",
+  "description": "Rofi script for displaying available tasks in Phabricator",
+  "main": "phabricator-tasks.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rom3k/rofi-phabricator.git"
+  },
+  "author": "Michał Romaszkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rom3k/rofi-phabricator/issues"
+  },
+  "homepage": "https://github.com/rom3k/rofi-phabricator#readme"
+}
